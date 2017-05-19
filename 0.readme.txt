@@ -1,0 +1,4 @@
+1. Open cmd with administrator rights
+2. Execute 4.1.buildscript.webdeploy.using.package.bat
+3. Copy and Overwrite 'AcmeProject.SetParameters.xml' into 'OutputPackage' folder
+4. Execute 4.3.deployscript.install.webpackage.to.IIS.bat

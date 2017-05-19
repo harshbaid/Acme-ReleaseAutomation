@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\MSBuild\15.0\Bin\MSBuild.exe" AcmeProject.sln /t:Build /p:Configuration=Release /m /nologo /v:n /ds /p:DeployOnBuild=true /p:PublishProfile=FileSystem.pubxml
